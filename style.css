@@ -9,6 +9,7 @@ body {
       border-radius: 10px;
       border: solid 1.5px #f6f7fa;
       background-color: #f6f7fa;
+      padding-bottom: 5%;
   }
   
   .file-upload-content {
@@ -150,7 +151,5 @@ body {
     text-align: center;
     font-size: 1rem;
   }
-  .kakao_ad_area_1 {
-    padding-top: 5%;
-  }
+  
   
