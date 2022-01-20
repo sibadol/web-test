@@ -138,7 +138,7 @@ body {
     padding-bottom: 5%;
   }
   .copyright {
-    padding-top: 90px;
+    padding-top: 80px;
     font-size: 1rem;
     text-align: center;
   }
@@ -149,5 +149,8 @@ body {
   .wartwo {
     text-align: center;
     font-size: 1rem;
+  }
+  .kakao_ad_area_1 {
+    padding-top: 5%;
   }
   
