@@ -9,7 +9,6 @@ body {
       border-radius: 10px;
       border: solid 1.5px #f6f7fa;
       background-color: #f6f7fa;
-      padding-bottom: 5%;
   }
   
   .file-upload-content {
@@ -113,6 +112,7 @@ body {
     line-height: 1.67;
     text-align: center;
     color: #35465d;
+    padding-top: 5%;
   }
   .subtitle {
     font-family: NanumSquareR;
@@ -136,7 +136,7 @@ body {
     font-size: 20px;
   }
   .kakao_ad_area {
-    padding-bottom: 5%;
+    padding-top: 5%;
   }
   .copyright {
     padding-top: 80px;
